@@ -1,10 +1,6 @@
 from typing import List
 
 
-
-from typing import List
-
-
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         delta = float('inf')
